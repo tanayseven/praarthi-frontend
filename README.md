@@ -2,6 +2,15 @@ Praarthi (Frontend)
 ===================
 
 ![CI pipeline](https://github.com/tanayseven/praarthi-frontend/workflows/Praarthi%20Frontend%20pipeline/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=alert_status)](https://sonarcloud.io/dashboard?id=tanayseven_praarthi-frontend)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=code_smells)](https://sonarcloud.io/project/issues?id=tanayseven_praarthi-frontend&resolved=false&types=CODE_SMELL)
+[![Code Coverage](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=coverage)](https://sonarcloud.io/code?id=tanayseven_praarthi-frontend)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=ncloc)](https://sonarcloud.io/code?id=tanayseven_praarthi-frontend)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=tanayseven_praarthi-frontend&metric=Maintainability&view=list)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=tanayseven_praarthi-frontend&metric=Reliability&view=list)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=security_rating)](https://sonarcloud.io/component_measures?id=tanayseven_praarthi-frontend&metric=Security&view=list)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=tanayseven_praarthi-frontend&metric=vulnerabilities)
+[![License](https://img.shields.io/github/license/tanayseven/praarthi-frontend)](https://tldrlegal.com/license/mit-license)
 
 React-based frontend for the Praarthi backend
 ---------------------------------------------
@@ -19,7 +28,7 @@ Licence
 
 The MIT License (MIT)
 
-Copyright (c) 2018 Tanay PrabhuDesai
+Copyright (c) 2020 Tanay PrabhuDesai
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

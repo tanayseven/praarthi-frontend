@@ -1,4 +1,4 @@
-name: Praarthi Frontend pipeline
+name: CI/CD Pipeline
 
 on:
   push:

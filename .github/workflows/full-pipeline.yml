@@ -14,11 +14,11 @@ jobs:
     steps:
       - uses: actions/setup-node@v1.4.3
       - uses: actions/checkout@v2.3.2
-      - uses: SonarSource/sonarcloud-github-action@v1.3
       - run: |
          npm ci
          npm test -- --coverage
-         
+      - uses: SonarSource/sonarcloud-github-action@v1.3
+
   build:
     runs-on: ubuntu-latest
     needs: test

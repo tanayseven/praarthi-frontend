@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/setup-node@v1.4.3
       - run: |
-         npm install
+         npm ci
          npm run build
          
   test:
@@ -25,5 +25,5 @@ jobs:
     steps:
       - uses: actions/setup-node@v1.4.3
       - run: |
-         npm install
+         npm ci
          npm test

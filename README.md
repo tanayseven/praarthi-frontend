@@ -1,6 +1,7 @@
 Praarthi (Frontend)
 ===================
 
+![CI pipeline](https://github.com/tanayseven/praarthi-frontend/workflows/Praarthi%20Frontend%20pipeline/badge.svg)
 
 React-based frontend for the Praarthi backend
 ---------------------------------------------

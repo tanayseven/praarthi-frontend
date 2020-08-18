@@ -13,6 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/setup-node@v1.4.3
       - run: |
          npm install
          npm run build
@@ -22,8 +23,7 @@ jobs:
     env:
       CI: true
     steps:
+      - uses: actions/setup-node@v1.4.3
       - run: |
          npm install
          npm test
-        
-  

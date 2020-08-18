@@ -15,6 +15,7 @@ jobs:
     steps:
       - uses: actions/setup-node@v1.4.3
       - run: |
+         cd ..
          echo "Laaaaaaaaaaaaaaaaaaaaaa-> "$PWD
          echo "Gaaaaaaaaaaaaaaaaaaaaaa-> "`ls`
          npm ci

@@ -2,6 +2,7 @@ Praarthi (Frontend)
 ===================
 
 ![CI/CD Pipeline](https://github.com/tanayseven/praarthi-frontend/workflows/CI/CD%20Pipeline/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/tanayseven/praarthi-frontend/badge.svg?branch=master)](https://coveralls.io/github/tanayseven/praarthi-frontend?branch=master)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=alert_status)](https://sonarcloud.io/dashboard?id=tanayseven_praarthi-frontend)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=code_smells)](https://sonarcloud.io/project/issues?id=tanayseven_praarthi-frontend&resolved=false&types=CODE_SMELL)
 [![Code Coverage](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=coverage)](https://sonarcloud.io/code?id=tanayseven_praarthi-frontend)

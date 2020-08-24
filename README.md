@@ -2,6 +2,8 @@ Praarthi (Frontend)
 ===================
 
 ![CI/CD Pipeline](https://github.com/tanayseven/praarthi-frontend/workflows/CI/CD%20Pipeline/badge.svg)
+[![Production Status](https://img.shields.io/website?down_color=red&down_message=Production%20is%20Down&up_color=green&up_message=Production%20is%20Up&url=https://praarthi.netlify.app/)](https://praarthi.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0b0512a3-ad68-4f81-9b55-ae03f0cb7628/deploy-status)](https://app.netlify.com/sites/praarthi/deploys)
 [![Coverage Status](https://coveralls.io/repos/github/tanayseven/praarthi-frontend/badge.svg?branch=master)](https://coveralls.io/github/tanayseven/praarthi-frontend?branch=master)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=alert_status)](https://sonarcloud.io/dashboard?id=tanayseven_praarthi-frontend)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=tanayseven_praarthi-frontend&metric=code_smells)](https://sonarcloud.io/project/issues?id=tanayseven_praarthi-frontend&resolved=false&types=CODE_SMELL)

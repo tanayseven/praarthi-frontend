@@ -16,6 +16,9 @@ jobs:
       - run: |
          npm ci
          npm test -- --coverage --watchAll=false
+      - name: Fix coverage report paths
+        - run: |
+            sed -i 's#/home/runner/work/praarthi-frontend/praarthi-frontend/#/github/workspace/#g' coverage/lcov.info
       - name: Sonar Scanner
         uses: SonarSource/sonarcloud-github-action@v1.3
       - name: Coveralls GitHub Action

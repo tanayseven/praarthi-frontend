@@ -19,10 +19,6 @@ jobs:
          sed -i 's#/home/runner/work/praarthi-frontend/praarthi-frontend/#/github/workspace/#g' coverage/lcov.info # Fix the coverage report path
       - name: Sonar Scanner
         uses: SonarSource/sonarcloud-github-action@v1.3
-      - name: Coveralls GitHub Action
-        uses: coverallsapp/github-action@v1.1.1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
 
   build:
     runs-on: ubuntu-latest
